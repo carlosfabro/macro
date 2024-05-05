@@ -100,7 +100,7 @@ void loop(){
   }
 
   if (digitalRead(9) == HIGH){
-    Keyboard.print("carlosefsantos@outlook.com");
+    Keyboard.print(".com");
     delay(3000);
   }
 }
